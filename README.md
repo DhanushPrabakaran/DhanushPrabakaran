@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhanushprabakaran18@gmail.com**
 
-<h3 align="left">Connect with me:**https://www.linkedin.com/in/dhanushprabakar/**</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/dhanushprabakar/</h3>
 <p align="left">
 </p>
 
