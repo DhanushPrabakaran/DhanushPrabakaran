@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **link saver**
 
-- 🌱 I’m currently learning **react frameworks**
+- 🌱 I’m currently learning **Spring frameworks**
 
 - 👯 I’m looking to collaborate on **full stack related projects**
 
