@@ -10,7 +10,7 @@
 - 💬 Ask me about **nodejs**,**Express.js**,**Next.js**
 
 - 📫 How to reach me **dhanushprabakaran18@gmail.com**
-- 📫 How to reach me **<a href="[https://www.cprogramming.com/](dhanushprabakaran.vercel.app)" target="_top" rel="">dhanushprabakaran.vercel.app</a>**
+- 📫 How to reach me **<a href="dhanushprabakaran.vercel.app" target="_top" rel="">dhanushprabakaran.vercel.app</a>**
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/dhanushprabakar/</h3>
 <p align="left">
