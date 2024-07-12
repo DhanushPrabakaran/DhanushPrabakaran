@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush Prabakaran</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+- 📫 My Portfolio **<a href="https://dhanushprabakaran.vercel.app/" target="_top" rel="">dhanushprabakaran.vercel.app</a>**
 - 🔭 I’m currently working on **<a href="[https://www.cprogramming.com/](https://wonderwhisper.vercel.app/)" target="_top" rel="">https://wonderwhisper.vercel.app/</a>**
 
 - 🌱 I’m currently learning **Spring frameworks**
@@ -10,7 +10,7 @@
 - 💬 Ask me about **nodejs**,**Express.js**,**Next.js**
 
 - 📫 How to reach me **dhanushprabakaran18@gmail.com**
-- 📫 How to reach me **<a href="https://dhanushprabakaran.vercel.app/" target="_top" rel="">dhanushprabakaran.vercel.app</a>**
+
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/dhanushprabakar/</h3>
 <p align="left">
