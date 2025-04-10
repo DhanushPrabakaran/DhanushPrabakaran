@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush Prabakaran</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<h4>👨‍💻 My Portfolio <a href="https://dhanushprabakaran.vercel.app/" target="_top" rel="">dhanushprabakaran.vercel.app</a></h4>
+<h4>👨‍💻 My Portfolio <a href="https://developerdiary.vercel.app" target="_top" rel="">developerdiary.vercel.app</a></h4>
 
 - 🔭 I’m currently working on **<a href="https://github.com/DhanushPrabakaran/portfolioforge" target="_top" rel="">https://github.com/DhanushPrabakaran/portfolioforge</a>**
 
